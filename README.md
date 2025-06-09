@@ -12,8 +12,3 @@ This project focuses on streaming Pump.fun transactions using gRPC and parsing b
 --PS: this code only works for the program ID <address>
 -- DON'T attempt to use the code for any other program
 
-
-gRPC client examples :https://github.com/Shyft-to/solana-defi
-Blogs : blogs.shyft.to
-Learn about shyft: https://shyft.to/
-Discord: https://discord.gg/6bSmYuDa
